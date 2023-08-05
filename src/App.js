@@ -154,7 +154,7 @@ export default function App() {
                             position: 'absolute'
                         }}
                     >
-                        <Avatar sx={{ m: 1, bgcolor: 'gray' }}>
+                        <Avatar sx={{ m: 1, backgroundColor: 'gray' }}>
                             <EditOutlinedIcon />
                         </Avatar>
                         <Typography
